@@ -1,4 +1,9 @@
-langchain==0.2.10
+langchain==0.2.11
 langchain-openai==0.1.17
 python-dotenv==1.0.1
-langchain-groq==0.1.6
+faiss-cpu==1.8.0.post1
+langchain-community==0.2.10
+docarray==0.40.0
+tiktoken==0.7.0
+langchain-chroma==0.1.2
+langchainhub==0.1.20
